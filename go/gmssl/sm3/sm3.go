@@ -49,7 +49,7 @@
 package sm3
 
 import (
-	"gmssl"
+	"github.com/bdware/go-gmssl/gmssl"
 	"hash"
 )
 
